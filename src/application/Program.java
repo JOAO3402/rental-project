@@ -5,6 +5,7 @@ import entities.Invoice;
 import entities.Vehicle;
 import model.services.BrazilTaxService;
 import model.services.RentalService;
+import model.services.TaxService;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
